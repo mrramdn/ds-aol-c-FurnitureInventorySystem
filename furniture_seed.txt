@@ -1,0 +1,9 @@
+101|Meja Kantor|Meja|750000|10
+102|Kursi Lipat|Kursi|300000|5
+103|Lemari Kayu|Lemari|1250000|3
+104|Sofa Minimalis|Sofa|2300000|2
+105|Rak Buku|Rak|400000|8
+106|Meja Makan|Meja|850000|6
+107|Sofa Maximalis|Sofa|23000000|2
+108|Rak Action Figure|Rak|4000000|8
+109|Meja Tidur|Meja|8500000|6
